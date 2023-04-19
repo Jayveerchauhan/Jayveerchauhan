@@ -1,14 +1,14 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+![Header](https://github.com/Jayveerchauhan/-github-profile-header)
 <h1 align="center">Hi, I'm Jayveer Chauhan! 👋</h1>
 <h3 align="center">I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F-SV9TjUGabMAAAAC%2Fhacker-python.gif&tbnid=QnlO8WrOgVnmHM&vet=12ahUKEwiFl_fK6LX-AhVygGMGHV2eBSUQMygAegUIARCRAg..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fhacker-python-coding-glitch-gif-24209207&docid=NWsYW9AoeIKEmM&w=498&h=280&q=hacker%20gif&ved=2ahUKEwiFl_fK6LX-AhVygGMGHV2eBSUQMygAegUIARCRAg">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayveerchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jayveerchauhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jayveerchauhan_" target="blank"><img src="https://img.shields.io/twitter/follow/jayveerchauhan_?logo=twitter&style=for-the-badge" alt="jayveerchauhan_" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud Project**
 
-- 🌱 I’m currently learning **Cloud Computing , Cyber Security , Ethical Hacking**
+- 🌱 I’m currently learning **Web Development ,Cloud Computing , Cyber Security and Ethical Hacking**
 
 - 📫 How to reach me **Jayveerchauhan100@gmail.com**
 
@@ -18,9 +18,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayveer-chauhan-2255aa226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayveer-chauhan-2255aa226" height="30" width="40" /></a>
 <a href="https://fb.com/jayveer chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayveer chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/jayveer_chauhan_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayveer_chauhan_04" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jayveer chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jayveer chauhan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jayveerchauhan04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jayveerchauhan04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jayveerchauhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayveerchauhan04" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCE90bL-K8x2kUB9tTPbMAbA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jayveer chauhan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jayveerchauhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayveerchauhan04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jayveerchauhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayveerchauhan04" height="30" width="40" /></a>
 </p>
 
