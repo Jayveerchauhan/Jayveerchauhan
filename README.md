@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi, I'm Jayveer Chauhan! 👋</h1>
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=jayveerchauhan&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="jayveerchauhan" />-->
  <img src="https://gpvc.arturio.dev/jayveerchauhan" align='right'/> <a href="https://github.com/jayveerchauhan/jayveerchauhan/"> </a> 
 <br/>
@@ -11,7 +10,7 @@
 </p>
 <hr/>
 <samp>
-I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.<br>
 </samp>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayveerchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jayveerchauhan" /> </p>
