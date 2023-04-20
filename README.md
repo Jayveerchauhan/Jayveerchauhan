@@ -97,3 +97,13 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
    <a href="h[![Jayveer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jayveerchauhan)](https://github.com/jayveerchauhan/github-readme-activity-graph)" /></a>
   <br/>
 </details>
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+	<a href="https://jayveerchauahn.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/jayveerchauhan" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/jayveer-chauhan-2255aa226/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
