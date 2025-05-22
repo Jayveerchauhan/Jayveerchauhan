@@ -13,7 +13,7 @@
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.<br>
 </samp>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayveerchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jayveerchauhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayveerchauhan&label=Profile%2000views&color=0e75b6&style=flat" alt="jayveerchauhan" /> </p>
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
